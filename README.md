@@ -1,3 +1,5 @@
+This is a simple React Redux app to understand the workflow of React and Redux.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
